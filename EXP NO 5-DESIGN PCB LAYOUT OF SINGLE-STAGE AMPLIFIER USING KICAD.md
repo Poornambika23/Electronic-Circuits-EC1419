@@ -14,8 +14,10 @@
 
 ## output waveform
 <img width="390" height="343" alt="image" src="https://github.com/user-attachments/assets/4f77f209-b522-4a29-b966-2db56e6e9b24" />
+<img width="345" height="541" alt="image" src="https://github.com/user-attachments/assets/ab3e45fe-bf55-42a6-8143-f7fa4bf2bada" />
 
 
 ## result
-<img width="422" height="648" alt="image" src="https://github.com/user-attachments/assets/aaf1d5a3-eb91-4f79-b7d8-320f616309ca" />
+<img width="432" height="637" alt="image" src="https://github.com/user-attachments/assets/877ba10d-8dc4-44cd-97a6-81315e1711dc" />
+
 
