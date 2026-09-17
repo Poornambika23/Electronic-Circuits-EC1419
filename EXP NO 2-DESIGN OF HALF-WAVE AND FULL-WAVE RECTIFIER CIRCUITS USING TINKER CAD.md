@@ -7,10 +7,16 @@
 <img width="613" height="121" alt="image" src="https://github.com/user-attachments/assets/676c5397-3c7c-4985-b376-2d3dbd73b1d9" />
 
 
-## tinker cad circuit diagram
+## circuit diagram
+<img width="472" height="781" alt="image" src="https://github.com/user-attachments/assets/73653f66-b53e-4c2d-9fb8-dcc9c64b2531" />
+<img width="445" height="782" alt="image" src="https://github.com/user-attachments/assets/ae0f7891-4037-4936-8dd0-32e5dd9c94d2" />
+
+## tinkercad output graph
+<img width="635" height="377" alt="image" src="https://github.com/user-attachments/assets/52788f3e-256a-47f3-ad8d-8cef26506f1d" />
+<img width="605" height="347" alt="image" src="https://github.com/user-attachments/assets/eb84a865-27dc-4eae-822a-a4bf7d134aba" />
 
 ## ripple factor calculation
-
-## output graph
+<img width="296" height="355" alt="image" src="https://github.com/user-attachments/assets/66a725a6-f67f-461a-a01b-98f568a6b031" />
 
 ## result
+<img width="385" height="533" alt="image" src="https://github.com/user-attachments/assets/953d78fd-9dec-40c9-98f1-b5f7edf935a2" />
